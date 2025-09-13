@@ -1,6 +1,6 @@
 # Moss-traits-and-bacterial-communities
 
-Data associated with the manuscript _Moss and underlying soil bacterial community structure are linked to moss functional traits_ authored by Ingeborg J. Klarenberg, Christoph Keuschnig, Alejandro Salazar, Liane G. Benning and Oddur Vilhelmsson.
+Data associated with the manuscript _Moss and underlying soil bacterial community structure are linked to moss functional traits_ authored by Ingeborg J. Klarenberg, Christoph Keuschnig, Alejandro Salazar, Liane G. Benning and Oddur Vilhelmsson. See [here](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.4447) for the paper.
 
 > Data:
 >- Metadata.xlsx: Moss traits, _nifH_ gene abundance and acetylene reduction rates, time since deglaciation for each moss and soil sample
