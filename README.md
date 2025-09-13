@@ -6,6 +6,7 @@ Data associated with the manuscript _Moss and underlying soil bacterial communit
 >- Metadata.xlsx: Moss traits, _nifH_ gene abundance and acetylene reduction rates, time since deglaciation for each moss and soil sample
 >- Soildata.xlsx: pH and soil moisture content of bare and moss covered soil
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7313340.svg)](https://doi.org/10.5281/zenodo.7313340)
 
 
 
